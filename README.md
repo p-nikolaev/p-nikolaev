@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pavel Nikolaev
+- 👀 I’m interested in JavaScript, NodeJS, Postgresql, React
+- 🌱 I’m currently learning C
